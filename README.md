@@ -2,8 +2,8 @@
 
 ```
 docker run -it THE_IMAGE_NAME bash
-git clone https://github.com/skwsm/massbank_rdf.git
-git clone https://github.com/MassBank/MassBank-data.git
+git clone https://github.com/skwsm/massbank_rdf
+git clone https://github.com/MassBank/MassBank-data
 cd massbank_rdf
 mkdir output
 cd lib
